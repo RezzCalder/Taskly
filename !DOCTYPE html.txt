@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh Tag img</title>
+</head>
+<body>
+	<h1>Gambar Kucing</h1>
+	<img src="https://images.unsplash.com/photo-1555421689-3e99c86f812a" alt="Kucing Lucu">
+</body>
+</html>
